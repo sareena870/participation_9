@@ -1,0 +1,7 @@
+setup.py
+participation_9/_init.py
+participation_9/jabber.py
+participation_9.egg-info/PKG-INFO
+participation_9.egg-info/SOURCES.txt
+participation_9.egg-info/dependency_links.txt
+participation_9.egg-info/top_level.txt
